@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there! 👋 I'm Pablo Lama Coronado
 
-<!--
-**PabloLamaGit/PabloLamaGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 4th-year **Software Engineering student at Universidad Politécnica de Madrid (UPM)**.
 
-Here are some ideas to get you started:
+### 🌱 About Me & Mindset
+I consider myself a proactive, adaptable, and communicative team player. Coming from an academic background, my main goal right now is to learn, absorb new knowledge, and take on real-world challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+* **Strongest at:** Java, SQL
+* **Familiar with:** Python, C++, NoSQL (MongoDB)
+* **Tools & Practices:** Git, IntelliJ IDEA, JUnit, Object-Oriented Programming (OOP), Unit Testing
+
+### 🚀 Featured Projects
+* [**Tennis Club Manager**](URL-del-repo): A Java console application implementing layered architecture, custom dependency injection, and testing.
+* [**Dungeon Crawler**](URL-del-repo): An RPG game engine designed with solid Object-Oriented principles.
+
+### 📫 Let's Connect!
+* **LinkedIn:** [Your LinkedIn URL]
+* **Email:** tu-correo@email.com
