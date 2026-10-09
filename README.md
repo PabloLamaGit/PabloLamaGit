@@ -11,9 +11,9 @@ I consider myself a proactive, adaptable, and communicative team player. Coming 
 * **Tools & Practices:** Git, IntelliJ IDEA, JUnit, Object-Oriented Programming (OOP), Unit Testing
 
 ### 🚀 Featured Projects
-* [**Tennis Club Manager**](URL-del-repo): A Java console application implementing layered architecture, custom dependency injection, and testing.
-* [**Dungeon Crawler**](URL-del-repo): An RPG game engine designed with solid Object-Oriented principles.
+* [**Tennis CLI**](https://github.com/PabloLamaGit/java-tennis-cli.git): A Java console application implementing layered architecture, custom dependency injection, and testing.
+* [**Dungeon Crawler**](https://github.com/PabloLamaGit/java-dungeon-crawler.git): An RPG game engine designed with solid Object-Oriented principles.
 
 ### 📫 Let's Connect!
 * **LinkedIn:** [Your LinkedIn URL]
-* **Email:** tu-correo@email.com
+* **Email:** pablolamacoronado@gmail.com
