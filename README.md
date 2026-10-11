@@ -15,5 +15,5 @@ I consider myself a proactive, adaptable, and communicative team player. Coming 
 * [**Dungeon Crawler**](https://github.com/PabloLamaGit/java-dungeon-crawler.git): An RPG game engine designed with solid Object-Oriented principles.
 
 ### 📫 Let's Connect!
-* **LinkedIn:** [Your LinkedIn URL]
+* **LinkedIn:** https://www.linkedin.com/in/pablolamacoronado/
 * **Email:** pablolamacoronado@gmail.com
